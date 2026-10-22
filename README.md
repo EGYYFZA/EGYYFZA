@@ -4,8 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=22B8CF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=UI%2FUX+Designer+%26+Web+Developer;From+interface+ideas+to+interactive+experiences;Responsive+websites+with+attention+to+detail" width="720" alt="UI/UX Designer and Web Developer — from interface ideas to interactive experiences" />
 <p>
 <a href="https://www.linkedin.com/in/seggy-ferdianza-agustin-278ab9241/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect with Seggy on LinkedIn" /></a>
-<a href="https://github.com/EGYYFZA?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-172033?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
-<a href="https://frontend-assesment-kledo.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-Region_Explorer-087F8C?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Try the Indonesia Region Explorer live demo" /></a>
+<!-- <a href="https://github.com/EGYYFZA?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-172033?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
+<a href="https://frontend-assesment-kledo.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-Region_Explorer-087F8C?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Try the Indonesia Region Explorer live demo" /></a> -->
 </p>
 </div>
 
