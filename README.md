@@ -5,7 +5,7 @@
 <p>
 <a href="https://www.linkedin.com/in/seggy-ferdianza-agustin-278ab9241/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect with Seggy on LinkedIn" /></a>
 <a href="https://github.com/EGYYFZA?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-172033?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
-<a href="https://frontend-assesment-kledo.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-Region_Explorer-087F8C?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Try the Indonesia Region Explorer live demo" /></a>
+<!-- <a href="https://frontend-assesment-kledo.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-Region_Explorer-087F8C?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Try the Indonesia Region Explorer live demo" /></a> -->
 </p>
 </div>
 
