@@ -75,10 +75,13 @@
 </p>
 <p><strong>Research &amp; delivery</strong></p>
 <p>
-<img src="https://img.shields.io/badge/Python-172033?style=flat-square&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-172033?style=flat-square&amp;logo=fastapi&amp;logoColor=34D399" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Git-172033?style=flat-square&amp;logo=git&amp;logoColor=F97316" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-172033?style=flat-square&amp;logo=githubactions&amp;logoColor=A78BFA" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Python-172033?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Supabase-172033?style=flat-square&logo=supabase&logoColor=34D399" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Postman-172033?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/PostgreSQL-172033?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/FastAPI-172033?style=flat-square&logo=fastapi&logoColor=34D399" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Git-172033?style=flat-square&logo=git&logoColor=F97316" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-172033?style=flat-square&logo=githubactions&logoColor=A78BFA" alt="GitHub Actions" />
 </p>
 
 <h2>GitHub activity</h2>
