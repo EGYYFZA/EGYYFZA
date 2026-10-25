@@ -39,13 +39,14 @@
 <p>A responsive region explorer with dependent location filters and URL-based state.</p>
 <p><code>React · TypeScript · Tailwind CSS</code></p>
 <p><a href="https://github.com/EGYYFZA/frontend-assesment-kledo"><strong>Explore the source ↗</strong></a></p>
-<p><sub><a href="https://frontend-assesment-kledo.vercel.app/">Try the live demo ↗</a></sub></p>
+<p><sub><a href="https://explore-nusantara-indonesia.vercel.app/">Try the live demo ↗</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/EGYYFZA/magna-care">04 / Magna Care</a></h3>
 <p>A skincare storefront demo exploring product discovery, catalog presentation, and shopping cart interactions.</p>
 <p><code>React · Tailwind CSS · Vite</code></p>
 <p><a href="https://github.com/EGYYFZA/magna-care"><strong>Explore the source ↗</strong></a></p>
+<p><sub><a href="https://magna-care-one.vercel.app/">Try the live demo ↗</a></sub></p>
 
 </td></tr>
 </table>
