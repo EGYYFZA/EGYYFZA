@@ -1,5 +1,9 @@
 <img src="./assets/profile-banner.svg" width="100%" alt="Seggy Ferdianza Agustin — UI/UX Designer and Web Developer. Thoughtful interfaces, interactive experiences." />
 
+<p align="center">
+<a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=22B8CF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=UI%2FUX+Designer+%26+Web+Developer;From+interface+ideas+to+interactive+experiences;Responsive+websites+with+attention+to+detail" width="720" alt="UI/UX Designer and Web Developer — from interface ideas to interactive experiences" /></a>
+</p>
+
 # Seggy Ferdianza Agustin
 
 UI/UX Designer & Web Developer exploring clear interfaces, responsive experiences and the details that make them useful.
