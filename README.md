@@ -1,4 +1,4 @@
-<img src=".github/media/cover.png" alt="Seggy Ferdianza Agustin — ui/ux design & web development" width="1280">
+<img src="./assets/profile-banner.svg" width="100%" alt="Seggy Ferdianza Agustin — UI/UX Designer and Web Developer. Thoughtful interfaces, interactive experiences." />
 
 # Seggy Ferdianza Agustin
 
@@ -33,10 +33,36 @@ OCR and reference-article matching in a local research prototype.
 with Indonesian news datasets. Predictions and collected content require
 independent review; project READMEs describe the boundaries.
 
-## Tools I use across these projects
+## Languages, frameworks & tools
 
-React, Next.js, TypeScript, JavaScript, HTML/CSS and Tailwind for interfaces;
-Python, FastAPI, TensorFlow, OpenCV and MediaPipe for research and interaction.
+**Languages**
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-172033?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-172033?style=flat-square&amp;logo=typescript&amp;logoColor=60A5FA" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-172033?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-172033?style=flat-square&amp;logo=html5&amp;logoColor=F97316" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS-172033?style=flat-square&amp;logo=css&amp;logoColor=60A5FA" alt="CSS" />
+</p>
+
+**Frameworks**
+
+<p>
+<img src="https://img.shields.io/badge/React-172033?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-172033?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-172033?style=flat-square&amp;logo=tailwindcss&amp;logoColor=22D3EE" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/FastAPI-172033?style=flat-square&logo=fastapi&logoColor=34D399" alt="FastAPI" />
+</p>
+
+**Tools & platforms**
+
+<p>
+<img src="https://img.shields.io/badge/Supabase-172033?style=flat-square&logo=supabase&logoColor=34D399" alt="Supabase" />
+<img src="https://img.shields.io/badge/Postman-172033?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+<img src="https://img.shields.io/badge/PostgreSQL-172033?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Git-172033?style=flat-square&logo=git&logoColor=F97316" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-172033?style=flat-square&logo=githubactions&logoColor=A78BFA" alt="GitHub Actions" />
+</p>
 
 [Connect on LinkedIn](https://www.linkedin.com/in/seggy-ferdianza-agustin-278ab9241/)
 · [Browse all repositories](https://github.com/EGYYFZA?tab=repositories)
