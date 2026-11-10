@@ -4,12 +4,6 @@
 <a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=22B8CF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=UI%2FUX+Designer+%26+Web+Developer;From+interface+ideas+to+interactive+experiences;Responsive+websites+with+attention+to+detail" width="720" alt="UI/UX Designer and Web Developer — from interface ideas to interactive experiences" /></a>
 </p>
 
-# Seggy Ferdianza Agustin
-
-UI/UX Designer & Web Developer exploring clear interfaces, responsive experiences and the details that make them useful.
-
-**Interfaces · Interactive websites · Research prototypes** · Selected work
-
 ## Selected websites
 
 | Project | Focus | Explore |
@@ -22,7 +16,6 @@ UI/UX Designer & Web Developer exploring clear interfaces, responsive experience
 
 | Project | Focus |
 | :-- | :-- |
-| [The Royal Purnama](https://github.com/EGYYFZA/Revamp-royal-purnama-public) | Hospitality browsing, villa details and enquiry drafts; independent portfolio study |
 | [Sela House](https://github.com/EGYYFZA/Room-Explorer) | A fictional hotel with horizontal navigation and room exploration |
 | [DataHub](https://github.com/EGYYFZA/ecommerce-datahub) | A local internet-package storefront and simulated customer workflows |
 | [Buseet](https://github.com/EGYYFZA/bus-ticket-booking) | A static bus-ticket booking interface |
