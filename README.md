@@ -72,5 +72,15 @@ independent review; project READMEs describe the boundaries.
   <img src="https://img.shields.io/badge/Cursor-172033?style=flat-square&logo=cursor&logoColor=FFFFFF" alt="Cursor" />
 </p>
 
+**AI Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-172033?style=flat-square&logo=claude&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/GPT-172033?style=flat-square&logo=openai&logoColor=10A37F" alt="GPT" />
+  <img src="https://img.shields.io/badge/Gemini-172033?style=flat-square&logo=googlegemini&logoColor=4285F4" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Copilot-172033?style=flat-square&logo=githubcopilot&logoColor=A78BFA" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Cursor-172033?style=flat-square&logo=cursor&logoColor=FFFFFF" alt="Cursor" />
+</p>
+
 [Connect on LinkedIn](https://www.linkedin.com/in/seggy-ferdianza-agustin-278ab9241/)
 · [Browse all repositories](https://github.com/EGYYFZA?tab=repositories)
