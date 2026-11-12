@@ -58,7 +58,7 @@ independent review; project READMEs describe the boundaries.
 <img src="https://img.shields.io/badge/Postman-172033?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
 <img src="https://img.shields.io/badge/PostgreSQL-172033?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Git-172033?style=flat-square&logo=git&logoColor=F97316" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-172033?style=flat-square&logo=githubactions&logoColor=A78BFA" alt="GitHub Actions" />|
+<img src="https://img.shields.io/badge/GitHub_Actions-172033?style=flat-square&logo=githubactions&logoColor=A78BFA" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Docker-172033?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
