@@ -58,7 +58,18 @@ independent review; project READMEs describe the boundaries.
 <img src="https://img.shields.io/badge/Postman-172033?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
 <img src="https://img.shields.io/badge/PostgreSQL-172033?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Git-172033?style=flat-square&logo=git&logoColor=F97316" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-172033?style=flat-square&logo=githubactions&logoColor=A78BFA" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/GitHub_Actions-172033?style=flat-square&logo=githubactions&logoColor=A78BFA" alt="GitHub Actions" />|
+<img src="https://img.shields.io/badge/Docker-172033?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+</p>
+
+**AI Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-172033?style=flat-square&logo=claude&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/GPT-172033?style=flat-square&logo=openai&logoColor=10A37F" alt="GPT" />
+  <img src="https://img.shields.io/badge/Gemini-172033?style=flat-square&logo=googlegemini&logoColor=4285F4" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Copilot-172033?style=flat-square&logo=githubcopilot&logoColor=A78BFA" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Cursor-172033?style=flat-square&logo=cursor&logoColor=FFFFFF" alt="Cursor" />
 </p>
 
 [Connect on LinkedIn](https://www.linkedin.com/in/seggy-ferdianza-agustin-278ab9241/)
