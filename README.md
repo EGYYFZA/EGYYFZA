@@ -8,6 +8,7 @@
 
 | Project | Focus | Explore |
 | :-- | :-- | :-- |
+| **Senandung** | A private listening room for Indonesian indie releases, with album playback and personal playlists | [Website](https://senandung-taste-your-music.vercel.app) · [Source](https://github.com/EGYYFZA/Senandung-taste-your-music) |
 | **EGZ studio** | Gesture-controlled effects, air painting and photobooth strips | [Website](https://egz-gesture-studio.netlify.app) · [Source](https://github.com/EGYYFZA/hand-touch-design) |
 | **Explore Nusantara** | Indonesian regions, interactive terrain and local photography | [Website](https://explore-nusantara-indonesia.vercel.app) · [Source](https://github.com/EGYYFZA/Explore-nusantara) |
 | **Magna Care** | A skincare storefront with a 3D product ring and local shopping bag | [Website](https://magna-care-one.vercel.app) · [Source](https://github.com/EGYYFZA/magna-care) |
